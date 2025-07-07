@@ -4,3 +4,7 @@ G:\repogitory\hm_perplexitiry_web\src\HmPerplexityWeb\obj\Release\HmPerplexityWe
 G:\repogitory\hm_perplexitiry_web\src\HmPerplexityWeb\obj\Release\HmPerplexityWeb.csproj.CoreCompileInputs.cache
 G:\repogitory\hm_perplexitiry_web\src\HmPerplexityWeb\obj\Release\HmPerplexityWeb.dll
 G:\repogitory\hm_perplexitiry_web\src\HmPerplexityWeb\obj\Release\HmPerplexityWeb.pdb
+G:\repogitory\hm_perplexity_web\src\HmPerplexityWeb\bin\Release\HmPerplexityWeb.dll
+G:\repogitory\hm_perplexity_web\src\HmPerplexityWeb\obj\Release\HmPerplexityWeb.csproj.AssemblyReference.cache
+G:\repogitory\hm_perplexity_web\src\HmPerplexityWeb\obj\Release\HmPerplexityWeb.csproj.CoreCompileInputs.cache
+G:\repogitory\hm_perplexity_web\src\HmPerplexityWeb\obj\Release\HmPerplexityWeb.dll
