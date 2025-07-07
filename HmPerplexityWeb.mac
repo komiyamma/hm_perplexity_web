@@ -37,7 +37,7 @@ eval(script);
 let isFirstParamOnlyWindow = true;
 
 // 初回の時の特別なパラメータ
-// ただし、文字数が多いとCopilotは無理
+// ただし、文字数が多いとPerplexityは無理
 function firstParamDecorator(baseUrl, text) {
     if (text.length < 256) {
         // スペースしかなければ、空文字
