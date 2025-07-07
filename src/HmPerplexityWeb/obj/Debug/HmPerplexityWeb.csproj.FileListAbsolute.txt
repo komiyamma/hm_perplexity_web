@@ -1,0 +1,6 @@
+C:\Users\master\source\repos\HmPerplexityWeb\HmPerplexityWeb\obj\Debug\HmPerplexityWeb.csproj.AssemblyReference.cache
+C:\Users\master\source\repos\HmPerplexityWeb\HmPerplexityWeb\obj\Debug\HmPerplexityWeb.csproj.CoreCompileInputs.cache
+C:\Users\master\source\repos\HmPerplexityWeb\HmPerplexityWeb\bin\Debug\HmPerplexityWeb.dll
+C:\Users\master\source\repos\HmPerplexityWeb\HmPerplexityWeb\bin\Debug\HmPerplexityWeb.pdb
+C:\Users\master\source\repos\HmPerplexityWeb\HmPerplexityWeb\obj\Debug\HmPerplexityWeb.dll
+C:\Users\master\source\repos\HmPerplexityWeb\HmPerplexityWeb\obj\Debug\HmPerplexityWeb.pdb
