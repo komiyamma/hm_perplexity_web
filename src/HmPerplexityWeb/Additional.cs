@@ -26,7 +26,7 @@ public partial class HmPerplexityWeb
         keybd_event(VK_SHIFT, 0, KEYEVENTF_KEYUP, 0);
 
 
-        await Task.Delay(100);
+        await Task.Delay(300);
 
         // CTRLキーを押す
         keybd_event(VK_CONTROL, 0, 0, 0);
@@ -34,7 +34,7 @@ public partial class HmPerplexityWeb
         // Jキーを押す
         keybd_event((byte)'J', 0, 0, 0);
 
-        await Task.Delay(200);
+        await Task.Delay(300);
 
         // Jキーを離す
         keybd_event((byte)'J', 0, KEYEVENTF_KEYUP, 0);

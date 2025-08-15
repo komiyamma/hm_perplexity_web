@@ -1,5 +1,5 @@
 ﻿/*
- * HmPerplexityWeb v 1.1.1.7
+ * HmPerplexityWeb v 1.1.1.8
  *
  * Copyright (c) 2025 Akitsugu Komiyama
  * under the MIT License
@@ -79,6 +79,8 @@ function onPrevKeySendDecorator() {
     }
 }
 
+// ２回目以降も１回目と同じ要領とする
+secondParamDecorator = firstParamDecorator;
 
 doMain();
 

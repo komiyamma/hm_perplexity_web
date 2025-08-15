@@ -16,9 +16,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{ACF7D3E8-A881-42A3-8912-161A952E1048}|HmPerplexityWeb\\HmPerplexityWeb.csproj|G:\\repogitory\\hm_perplexity_web\\src\\hmperplexityweb\\hmperplexityweb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ACF7D3E8-A881-42A3-8912-161A952E1048}|HmPerplexityWeb\\HmPerplexityWeb.csproj|solutionrelative:hmperplexityweb\\hmperplexityweb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACF7D3E8-A881-42A3-8912-161A952E1048}|HmPerplexityWeb\\HmPerplexityWeb.csproj|g:\\repogitory\\hm_perplexity_web\\src\\hmperplexityweb\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,11 +25,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
@@ -42,14 +43,10 @@
               "RelativeDocumentMoniker": "HmPerplexityWeb\\Additional.cs",
               "ToolTip": "G:\\repogitory\\hm_perplexity_web\\src\\HmPerplexityWeb\\Additional.cs",
               "RelativeToolTip": "HmPerplexityWeb\\Additional.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-08T05:57:25.291Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
             },
             {
               "$type": "Document",
@@ -72,8 +69,7 @@
               "ToolTip": "G:\\repogitory\\hm_perplexity_web\\src\\HmPerplexityWeb\\HmPerplexityWeb.csproj",
               "RelativeToolTip": "HmPerplexityWeb\\HmPerplexityWeb.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-07-07T10:34:29.096Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-07T10:34:29.096Z"
             },
             {
               "$type": "Document",
@@ -85,8 +81,7 @@
               "RelativeToolTip": "HmPerplexityWeb\\ClipBoard.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T10:33:05.227Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-07T10:33:05.227Z"
             }
           ]
         }
