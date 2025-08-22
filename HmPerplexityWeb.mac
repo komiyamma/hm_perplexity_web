@@ -73,6 +73,11 @@ function useInputTransfer() {
 // AIの返答などを選択した状態で、あらたな検索内容を送った際に、質問入力欄にフォーカスを強制的に移動させるため
 // Preplexityではデフォルト「CTRL」+「J」という変わった入力で移動する。
 function onPrevKeySendDecorator() {
+    
+    try {
+        browserpanecommand({target:"_each", focusinputfield:'#ask-input'});
+    } catch(e) {
+    }
     try {
         com.SendCtrlJKeySync();
     } catch(e) {
